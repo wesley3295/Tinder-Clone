@@ -1,7 +1,6 @@
 {
   "hosting": {
     "public": "build",
-    "site":"mock-tinder-mern",
     "ignore": [
       "firebase.json",
       "**/.*",
